@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anand Naidu</h1>
+<h1 align="center">Hi 👋, I'm Naidu Ananda</h1>
 <h3 align="center">Aspiring Java Backend Developer | BCA Student | Passionate about building real-world projects</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
@@ -6,8 +6,8 @@
 - 🌱 Currently learning: **Core Java, DSA, JDBC, Spring Boot**
 - 🔭 Working on: [AgriTrack](https://github.com/anand-8/AgriTrack) – an agriculture project to help farmers manage land & crops
 - 👨‍🎓 Pursuing: **BCA (Bachelor of Computer Applications)** from Berhampur University
-- 💬 Ask me about: `Java`, `OOPs`, `MySQL`, `Web Dev`, `Agro-Tech ideas`
-- 📫 Reach me at: **anandnaidu@gmail.com**
+- 💬 Ask me about: `Java`, `OOPs`, `MySQL`, `Web Dev`
+- 📫 Reach me at: **anandnaidu2705@gmail.com**
 - ⚡ Fun fact: I love learning by building real projects and improving step by step!
 
 ---
