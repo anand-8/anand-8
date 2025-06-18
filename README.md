@@ -26,14 +26,7 @@
 
 ### 📌 Pinned Projects
 
-<a href="https://github.com/anand-8/AgriTrack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anand-8&repo=AgriTrack&theme=radical" />
-</a>
-<a href="https://github.com/anand-8/Restaurant-Mobile-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anand-8&repo=Restaurant-Mobile-App&theme=radical" />
-</a>
 
----
 
 ### 📊 GitHub Stats
 
